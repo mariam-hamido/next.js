@@ -9,6 +9,7 @@ export default function Navbar() {
         <li><a href="/login">Login</a></li>
         <li><a href="/register">Register</a></li>
         <li><a href="/about">About</a></li>
+        <li><a href="/todos">todo</a></li>
         <li><a href="/crs">CRS</a></li>
         <li><a href="/ssr">SSR</a></li>
         <li><a href="/contact">Contact</a></li>
